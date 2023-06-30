@@ -59,7 +59,7 @@ nav ul li a {
 }
 
 #banner {
-    background-image: url(Imagens/CAPAS.jpg);
+    background-image: url(projeto-individual/CAPAS.jpg);
     background-size: cover;
     color: #ffffff;
     padding: 100px;
@@ -195,7 +195,7 @@ footer {
 
 #mockup{
     padding: 50px;
-    background-image: url(Imagens/Aurora.jpg);
+    background-image: url(projeto-individual/Aurora.jpg);
     background-size: cover;
     color: #ffffff;
     padding: 50px;
